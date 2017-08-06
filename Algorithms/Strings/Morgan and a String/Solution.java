@@ -61,7 +61,7 @@ public class Solution {
                 
                 
                 
-                ///////Characters are different///////
+                ///////Characters are Equivalent///////
                 else 
                 {
                     if(s1.charAt(i) == 'z'){i++; j++; continue;}//End has been reached
